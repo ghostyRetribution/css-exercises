@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.pinkClass {
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+    color: black;
+    background-color: rgb(240, 167, 167);
+}
+
+.pinkClass.thirdPinkClass {
+    font-size: 24px;
+}
+
+#secondDiv {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#fourthDiv {
+    background-color: lawngreen;
+    font-size: 24px;
+    font-weight: bold;
+}
